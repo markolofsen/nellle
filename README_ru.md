@@ -1,4 +1,4 @@
-<img align="center" src="![GIT TITLE](https://github.com/markolofsen/nellle/blob/master/.banners/banner_ru.jpg?raw=1)" />
+<p align="center"><img src="![GIT TITLE](https://github.com/markolofsen/nellle/blob/master/.banners/banner_ru.jpg?raw=1)" /></p>
 <p align="center"><b>Languages:</b><br /><a href="https://github.com/markolofsen/nellle/blob/master/README.md">English</a> | <a href="https://github.com/markolofsen/nellle/blob/master/README_es.md">Spanish</a> | <b>Russian</b></p>
 
 ---
@@ -11,7 +11,7 @@
 Code new new
 ```
 
-version = 0.0.4
+version = 0.0.5
 
 lib_name = nellle
 
