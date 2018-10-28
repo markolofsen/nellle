@@ -10,9 +10,12 @@
 Code new new
 ```
 
-version = 0.0.0
+version = 0.0.1
+
 lib_name = nellle
+
 title = ok
+
 keywords = good
 
 * [[asas]]
