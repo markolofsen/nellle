@@ -11,7 +11,7 @@ No banner
 Code new new
 ```
 
-version = 0.0.1
+version = 0.0.2
 
 lib_name = nellle
 
