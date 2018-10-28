@@ -1,4 +1,4 @@
-{'lang': 'ru', 'path': '/Users/mark/Documents/htdocs/nextjs_django/backend/media/uploaded/34645993_2084828641547130_6516080500363231232_n.jpg', 'filename': 'banner_ru.jpg'}
+https://github.com/markolofsen/nellle/blob/master/.banners/banner_es.jpg
 <p align="center"><b>Languages:</b><br /><a href="https://github.com/markolofsen/nellle/blob/master/README.md">English</a> | <b>Spanish</b> | <a href="https://github.com/markolofsen/nellle/blob/master/README_ru.md">Russian</a></p>
 
 ---
@@ -11,7 +11,7 @@
 Code new new
 ```
 
-versión = 0.0.8
+versión = 0.0.0
 
 lib_name = nellle
 
