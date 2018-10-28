@@ -10,10 +10,10 @@
 Code new new
 ```
 
-version = 0.0.8
+version = 0.0.0
 lib_name = nellle
 title = ok
-ключевые слова = ['good']
+ключевые слова = good
 
 * [[asas]]
 * как
