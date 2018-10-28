@@ -10,13 +10,13 @@
 Code new new
 ```
 
-version = 0.0.3
+version = 0.0.4
 
 lib_name = nellle
 
-title = ok
+title = GIT TITLE
 
-keywords = good
+keywords = good, street, nice, , evening, GIT_KEYWORD
 
 * [[asas]]
 * as
