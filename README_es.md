@@ -11,7 +11,7 @@
 Code new new
 ```
 
-versión = 0.0.7
+versión = 0.0.8
 
 lib_name = nellle
 
