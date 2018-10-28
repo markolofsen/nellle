@@ -3,7 +3,7 @@
 
 ---
 
-## Welcome to our world
+## Good morning friend!
 
 > Cool!
 
@@ -11,7 +11,7 @@
 Code new new
 ```
 
-version = 0.0.5
+version = 0.0.6
 
 lib_name = nellle
 
