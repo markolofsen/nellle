@@ -4,40 +4,23 @@
 
 ## Nueva descripción de la prueba
 
-
-
 > ¡Genial!
-
-
 
 ```javascript
 Code new new
 ```
 
-
-
-versión = 0.0.2
-
-
+versión = 0.0.3
 
 lib_name = nellle
 
-
-
 título = ok
-
-
 
 palabras clave = good
 
-
-
 * [[asas]]
-
 * como
-
 * como
-
 *
 
 ---

@@ -4,40 +4,23 @@
 
 ## Новое описание теста
 
-
-
 > Круто!
-
-
 
 ```javascript
 Code new new
 ```
 
-
-
-version = 0.0.2
-
-
+version = 0.0.3
 
 lib_name = nellle
 
-
-
 title = ok
-
-
 
 ключевые слова = good
 
-
-
 * [[asas]]
-
 * как
-
 * как
-
 *
 
 ---
