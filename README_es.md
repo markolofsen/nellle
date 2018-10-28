@@ -1,4 +1,4 @@
-![Pixel](src)<p align="center"><img src="https://github.com/markolofsen/nellle/blob/master/.banners/banner_es.jpg?raw=1" /></p>
+![Pixel](http://127.0.0.1:8000/api/repos/pixel/29.png)<p align="center"><img src="https://github.com/markolofsen/nellle/blob/master/.banners/banner_es.jpg?raw=1" /></p>
 <p align="center"><b>Languages:</b><br /><a href="https://github.com/markolofsen/nellle/blob/master/README.md">English</a> | <b>Spanish</b> | <a href="https://github.com/markolofsen/nellle/blob/master/README_ru.md">Russian</a></p>
 
 ---
@@ -11,7 +11,7 @@
 Code new new
 ```
 
-versión = 0.0.5
+versión = 0.0.6
 
 lib_name = nellle
 
